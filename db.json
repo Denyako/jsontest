@@ -1,7 +1,3 @@
-Content-Type: application/json
-Vary: Accept
-Allow: GET, HEAD, OPTIONS
-
 {
     "count": 82, 
     "next": "http://swapi.dev/api/people/?page=2", 
