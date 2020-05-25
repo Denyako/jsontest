@@ -1,6 +1,7 @@
- 
+{ 
 "status": { 
               "latitude": "55 41 32,40174 N",
               "longitude": "037 20 52.7440 E",
               "altitude": "234.590"
           }
+}
