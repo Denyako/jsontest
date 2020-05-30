@@ -2,6 +2,11 @@
 "status": { 
               "latitude": "55 41 32,40174 N",
               "longitude": "037 20 52.7440 E",
-              "altitude": "234.590"
+              "altitude": "234.590",
+              "altitude_reference": "ellipsoid WGS-84",
+              "ondulation": "14.948",
+              "solution_type": "Автономное",
+              "amendments_age": "-",
+              "time_UTC": "12:56:00"
           }
 }
